@@ -1,4 +1,5 @@
 ### Hi there 👋
+# Hi I'm Aykut, an IT enthusiastic 
 
 <!--
 **ike-repo/ike-repo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
