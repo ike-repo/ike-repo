@@ -1,4 +1,5 @@
-## Hi, this is Ike, an IT enthusiastic...👨🏽‍💻
+## Hi there!
+## This is Ike 👨🏽‍💻
 
 <!--
 **ike-repo/ike-repo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
